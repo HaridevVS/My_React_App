@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/My_React_App/static/css/main.af80ef5c.css",
+    "main.js": "/My_React_App/static/js/main.ad2a87da.js",
+    "static/js/787.39bb0775.chunk.js": "/My_React_App/static/js/787.39bb0775.chunk.js",
+    "static/media/pizzaLeft.jpg": "/My_React_App/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/pizza.jpg": "/My_React_App/static/media/pizza.571624fdf2ffbba49e17.jpg",
+    "static/media/Vegan.jpg": "/My_React_App/static/media/Vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/multiplePizzas.jpeg": "/My_React_App/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/Pepperoni.jpg": "/My_React_App/static/media/Pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/Pineapple.jpg": "/My_React_App/static/media/Pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/Margherita.jpg": "/My_React_App/static/media/Margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pizzaLogo.png": "/My_React_App/static/media/pizzaLogo.d7953ee7571dc4e78b02.png",
+    "static/media/Special.jpg": "/My_React_App/static/media/Special.425951cb0e484775fd4c.jpg",
+    "index.html": "/My_React_App/index.html",
+    "main.af80ef5c.css.map": "/My_React_App/static/css/main.af80ef5c.css.map",
+    "main.ad2a87da.js.map": "/My_React_App/static/js/main.ad2a87da.js.map",
+    "787.39bb0775.chunk.js.map": "/My_React_App/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af80ef5c.css",
+    "static/js/main.ad2a87da.js"
+  ]
+}
